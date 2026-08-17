@@ -57,6 +57,8 @@ By querying across these interconnected tables, I extracted insights about skill
 
 ```text
 1_EDA/
+├── 01_EDA_DE.png              # Project Overview Structure
+├── Data_Warehouse.png         # Data Warehouse Structure
 ├── top_demanded_skills.sql    # Demand analysis query
 ├── top_paying_skills.sql      # Salary analysis query
 ├── most_optimal_skills.sql    # Combined demand/salary optimization
